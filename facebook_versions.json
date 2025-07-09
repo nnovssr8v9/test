@@ -1,0 +1,854 @@
+[
+    {
+        "version": "520.0.0.44.99",
+        "release_date": "Jul 5, 2025"
+    },
+    {
+        "version": "519.0.0.44.92",
+        "release_date": "Jul 8, 2025"
+    },
+    {
+        "version": "518.0.0.66.86",
+        "release_date": "Jun 27, 2025"
+    },
+    {
+        "version": "518.0.0.63.86",
+        "release_date": "Jun 20, 2025"
+    },
+    {
+        "version": "517.0.0.70.92",
+        "release_date": "Jun 14, 2025"
+    },
+    {
+        "version": "516.0.0.73.90",
+        "release_date": "Jun 13, 2025"
+    },
+    {
+        "version": "515.1.0.62.90",
+        "release_date": "May 31, 2025"
+    },
+    {
+        "version": "514.0.0.65.72",
+        "release_date": "May 23, 2025"
+    },
+    {
+        "version": "513.1.0.66.92",
+        "release_date": "May 16, 2025"
+    },
+    {
+        "version": "512.0.0.64.75",
+        "release_date": "May 8, 2025"
+    },
+    {
+        "version": "510.0.0.72.41",
+        "release_date": "May 6, 2025"
+    },
+    {
+        "version": "508.0.0.74.47",
+        "release_date": "Apr 11, 2025"
+    },
+    {
+        "version": "507.0.0.66.49",
+        "release_date": "Apr 3, 2025"
+    },
+    {
+        "version": "506.1.0.74.27",
+        "release_date": "Mar 28, 2025"
+    },
+    {
+        "version": "505.0.0.57.45",
+        "release_date": "Mar 28, 2025"
+    },
+    {
+        "version": "504.0.0.69.64",
+        "release_date": "Mar 25, 2025"
+    },
+    {
+        "version": "503.0.0.69.76",
+        "release_date": "Mar 7, 2025"
+    },
+    {
+        "version": "502.0.0.66.79",
+        "release_date": "Feb 28, 2025"
+    },
+    {
+        "version": "501.0.0.61.70",
+        "release_date": "Feb 21, 2025"
+    },
+    {
+        "version": "500.0.0.57.50",
+        "release_date": "Feb 13, 2025"
+    },
+    {
+        "version": "499.0.0.31.60",
+        "release_date": "Feb 7, 2025"
+    },
+    {
+        "version": "498.0.0.54.74",
+        "release_date": "Jan 31, 2025"
+    },
+    {
+        "version": "497.0.0.47.36",
+        "release_date": "Jan 24, 2025"
+    },
+    {
+        "version": "496.0.0.45.65",
+        "release_date": "Jan 17, 2025"
+    },
+    {
+        "version": "495.0.0.45.201",
+        "release_date": "Jan 10, 2025"
+    },
+    {
+        "version": "494.1.0.56.73",
+        "release_date": "Jan 6, 2025"
+    },
+    {
+        "version": "494.0.0.55.73",
+        "release_date": "Dec 18, 2024"
+    },
+    {
+        "version": "493.0.0.72.158",
+        "release_date": "Dec 13, 2024"
+    },
+    {
+        "version": "492.0.0.127.80",
+        "release_date": "Dec 9, 2024"
+    },
+    {
+        "version": "491.0.0.58.78",
+        "release_date": "Dec 6, 2024"
+    },
+    {
+        "version": "490.0.0.63.82",
+        "release_date": "Nov 14, 2024"
+    },
+    {
+        "version": "489.0.0.66.81",
+        "release_date": "Nov 8, 2024"
+    },
+    {
+        "version": "488.0.0.78.79",
+        "release_date": "Nov 2, 2024"
+    },
+    {
+        "version": "487.1.0.74.74",
+        "release_date": "Oct 27, 2024"
+    },
+    {
+        "version": "486.0.0.66.70",
+        "release_date": "Oct 17, 2024"
+    },
+    {
+        "version": "485.0.0.75.77",
+        "release_date": "Oct 13, 2024"
+    },
+    {
+        "version": "485.0.0.70.77",
+        "release_date": "Oct 11, 2024"
+    },
+    {
+        "version": "484.0.0.63.83",
+        "release_date": "Oct 4, 2024"
+    },
+    {
+        "version": "483.0.0.51.72",
+        "release_date": "Sep 25, 2024"
+    },
+    {
+        "version": "482.0.0.51.80",
+        "release_date": "Sep 20, 2024"
+    },
+    {
+        "version": "481.0.0.61.80",
+        "release_date": "Sep 15, 2024"
+    },
+    {
+        "version": "480.0.0.54.88",
+        "release_date": "Sep 5, 2024"
+    },
+    {
+        "version": "479.0.0.48.89",
+        "release_date": "Aug 31, 2024"
+    },
+    {
+        "version": "479.0.0.42.89",
+        "release_date": "Aug 28, 2024"
+    },
+    {
+        "version": "478.0.0.41.86",
+        "release_date": "Aug 21, 2024"
+    },
+    {
+        "version": "477.0.0.56.80",
+        "release_date": "Aug 16, 2024"
+    },
+    {
+        "version": "476.0.0.49.74",
+        "release_date": "Aug 8, 2024"
+    },
+    {
+        "version": "475.1.0.46.82",
+        "release_date": "Aug 1, 2024"
+    },
+    {
+        "version": "475.0.0.40.82",
+        "release_date": "Jul 31, 2024"
+    },
+    {
+        "version": "474.0.0.52.74",
+        "release_date": "Jul 25, 2024"
+    },
+    {
+        "version": "473.0.0.41.81",
+        "release_date": "Jul 20, 2024"
+    },
+    {
+        "version": "472.0.0.45.79",
+        "release_date": "Jul 11, 2024"
+    },
+    {
+        "version": "471.0.0.35.80",
+        "release_date": "Jul 5, 2024"
+    },
+    {
+        "version": "470.0.0.61.82",
+        "release_date": "Jun 29, 2024"
+    },
+    {
+        "version": "469.2.0.51.80",
+        "release_date": "Jun 24, 2024"
+    },
+    {
+        "version": "469.0.0.39.80",
+        "release_date": "Jun 20, 2024"
+    },
+    {
+        "version": "468.1.0.56.78",
+        "release_date": "Jun 14, 2024"
+    },
+    {
+        "version": "468.0.0.53.78",
+        "release_date": "Jun 13, 2024"
+    },
+    {
+        "version": "467.1.0.52.83",
+        "release_date": "Jun 11, 2024"
+    },
+    {
+        "version": "467.0.0.46.83",
+        "release_date": "Jun 5, 2024"
+    },
+    {
+        "version": "466.1.0.57.85",
+        "release_date": "Jun 1, 2024"
+    },
+    {
+        "version": "466.0.0.55.85",
+        "release_date": "May 31, 2024"
+    },
+    {
+        "version": "465.0.0.63.83",
+        "release_date": "May 25, 2024"
+    },
+    {
+        "version": "465.0.0.60.83",
+        "release_date": "May 23, 2024"
+    },
+    {
+        "version": "465.0.0.0.62",
+        "release_date": "May 16, 2024"
+    },
+    {
+        "version": "464.0.0.60.90",
+        "release_date": "May 19, 2024"
+    },
+    {
+        "version": "463.1.0.53.85",
+        "release_date": "May 10, 2024"
+    },
+    {
+        "version": "463.0.0.45.85",
+        "release_date": "May 9, 2024"
+    },
+    {
+        "version": "462.0.0.47.85",
+        "release_date": "May 3, 2024"
+    },
+    {
+        "version": "461.0.0.47.85",
+        "release_date": "Apr 24, 2024"
+    },
+    {
+        "version": "460.0.0.47.89",
+        "release_date": "Apr 19, 2024"
+    },
+    {
+        "version": "460.0.0.34.89",
+        "release_date": "Apr 16, 2024"
+    },
+    {
+        "version": "459.1.0.42.84",
+        "release_date": "Apr 11, 2024"
+    },
+    {
+        "version": "459.1.0.41.84",
+        "release_date": "Apr 10, 2024"
+    },
+    {
+        "version": "459.0.0.38.84",
+        "release_date": "Apr 9, 2024"
+    },
+    {
+        "version": "458.0.0.38.86",
+        "release_date": "Apr 3, 2024"
+    },
+    {
+        "version": "457.0.0.54.84",
+        "release_date": "Mar 31, 2024"
+    },
+    {
+        "version": "456.0.0.39.90",
+        "release_date": "Mar 21, 2024"
+    },
+    {
+        "version": "455.0.0.44.88",
+        "release_date": "Mar 14, 2024"
+    },
+    {
+        "version": "454.1.0.49.104",
+        "release_date": "Mar 11, 2024"
+    },
+    {
+        "version": "454.0.0.44.104",
+        "release_date": "Mar 7, 2024"
+    },
+    {
+        "version": "454.0.0.0.77",
+        "release_date": "Mar 1, 2024"
+    },
+    {
+        "version": "453.0.0.40.107",
+        "release_date": "Feb 27, 2024"
+    },
+    {
+        "version": "452.0.0.45.110",
+        "release_date": "Feb 23, 2024"
+    },
+    {
+        "version": "451.0.0.45.109",
+        "release_date": "Feb 21, 2024"
+    },
+    {
+        "version": "449.0.0.44.115",
+        "release_date": "Feb 4, 2024"
+    },
+    {
+        "version": "447.0.0.24.113",
+        "release_date": "Jan 23, 2024"
+    },
+    {
+        "version": "446.0.0.27.352",
+        "release_date": "Jan 18, 2024"
+    },
+    {
+        "version": "445.0.0.34.118",
+        "release_date": "Dec 22, 2023"
+    },
+    {
+        "version": "444.0.0.31.114",
+        "release_date": "Dec 14, 2023"
+    },
+    {
+        "version": "442.0.0.44.114",
+        "release_date": "Nov 29, 2023"
+    },
+    {
+        "version": "441.1.0.39.109",
+        "release_date": "Nov 23, 2023"
+    },
+    {
+        "version": "441.0.0.32.109",
+        "release_date": "Nov 16, 2023"
+    },
+    {
+        "version": "441.0.0.0.93",
+        "release_date": "Nov 13, 2023"
+    },
+    {
+        "version": "439.0.0.1.117",
+        "release_date": "Oct 31, 2023"
+    },
+    {
+        "version": "438.0.0.33.118",
+        "release_date": "Oct 27, 2023"
+    },
+    {
+        "version": "437.0.0.35.116",
+        "release_date": "Oct 21, 2023"
+    },
+    {
+        "version": "437.0.0.23.116",
+        "release_date": "Oct 15, 2023"
+    },
+    {
+        "version": "437.0.0.2.116",
+        "release_date": "Oct 14, 2023"
+    },
+    {
+        "version": "435.0.0.42.112",
+        "release_date": "Oct 7, 2023"
+    },
+    {
+        "version": "434.0.0.36.115",
+        "release_date": "Oct 6, 2023"
+    },
+    {
+        "version": "433.0.0.31.111",
+        "release_date": "Sep 21, 2023"
+    },
+    {
+        "version": "432.0.0.29.102",
+        "release_date": "Sep 14, 2023"
+    },
+    {
+        "version": "431.0.0.30.108",
+        "release_date": "Sep 11, 2023"
+    },
+    {
+        "version": "431.0.0.14.108",
+        "release_date": "Sep 5, 2023"
+    },
+    {
+        "version": "430.0.0.23.113",
+        "release_date": "Aug 31, 2023"
+    },
+    {
+        "version": "430.0.0.9.113",
+        "release_date": "Aug 30, 2023"
+    },
+    {
+        "version": "429.0.0.27.114",
+        "release_date": "Aug 26, 2023"
+    },
+    {
+        "version": "428.0.0.26.108",
+        "release_date": "Aug 22, 2023"
+    },
+    {
+        "version": "427.0.0.31.63",
+        "release_date": "Aug 16, 2023"
+    },
+    {
+        "version": "425.0.0.22.49",
+        "release_date": "Jul 27, 2023"
+    },
+    {
+        "version": "424.0.0.21.75",
+        "release_date": "Jul 23, 2023"
+    },
+    {
+        "version": "423.0.0.21.64",
+        "release_date": "Jul 14, 2023"
+    },
+    {
+        "version": "422.0.0.26.76",
+        "release_date": "Jul 11, 2023"
+    },
+    {
+        "version": "421.0.0.33.47",
+        "release_date": "Jul 1, 2023"
+    },
+    {
+        "version": "421.0.0.30.47",
+        "release_date": "Jun 29, 2023"
+    },
+    {
+        "version": "420.0.0.32.61",
+        "release_date": "Jun 23, 2023"
+    },
+    {
+        "version": "419.0.0.37.71",
+        "release_date": "Jun 17, 2023"
+    },
+    {
+        "version": "418.0.0.33.69",
+        "release_date": "Jun 11, 2023"
+    },
+    {
+        "version": "417.0.0.33.65",
+        "release_date": "Jun 4, 2023"
+    },
+    {
+        "version": "416.0.0.35.85",
+        "release_date": "Jun 1, 2023"
+    },
+    {
+        "version": "415.0.0.34.107",
+        "release_date": "May 22, 2023"
+    },
+    {
+        "version": "413.0.0.30.104",
+        "release_date": "May 5, 2023"
+    },
+    {
+        "version": "412.0.0.0.5",
+        "release_date": "Apr 16, 2023"
+    },
+    {
+        "version": "411.1.0.29.112",
+        "release_date": "Apr 20, 2023"
+    },
+    {
+        "version": "410.0.0.26.115",
+        "release_date": "Apr 13, 2023"
+    },
+    {
+        "version": "409.0.0.27.106",
+        "release_date": "Apr 8, 2023"
+    },
+    {
+        "version": "408.1.0.36.103",
+        "release_date": "Mar 31, 2023"
+    },
+    {
+        "version": "407.0.0.30.97",
+        "release_date": "Mar 23, 2023"
+    },
+    {
+        "version": "406.0.0.26.90",
+        "release_date": "Mar 15, 2023"
+    },
+    {
+        "version": "405.1.0.28.72",
+        "release_date": "Mar 11, 2023"
+    },
+    {
+        "version": "405.0.0.23.72",
+        "release_date": "Mar 8, 2023"
+    },
+    {
+        "version": "404.0.0.35.70",
+        "release_date": "Mar 3, 2023"
+    },
+    {
+        "version": "403.0.0.27.81",
+        "release_date": "Feb 25, 2023"
+    },
+    {
+        "version": "402.0.0.21.84",
+        "release_date": "Feb 17, 2023"
+    },
+    {
+        "version": "401.0.0.24.77",
+        "release_date": "Feb 9, 2023"
+    },
+    {
+        "version": "400.0.0.37.76",
+        "release_date": "Feb 4, 2023"
+    },
+    {
+        "version": "400.0.0.16.76",
+        "release_date": "Jan 29, 2023"
+    },
+    {
+        "version": "399.0.0.24.93",
+        "release_date": "Jan 26, 2023"
+    },
+    {
+        "version": "398.0.0.21.105",
+        "release_date": "Jan 20, 2023"
+    },
+    {
+        "version": "397.0.0.23.404",
+        "release_date": "Jan 11, 2023"
+    },
+    {
+        "version": "396.1.0.28.104",
+        "release_date": "Dec 27, 2022"
+    },
+    {
+        "version": "396.0.0.21.104",
+        "release_date": "Dec 18, 2022"
+    },
+    {
+        "version": "395.0.0.27.214",
+        "release_date": "Dec 8, 2022"
+    },
+    {
+        "version": "395.0.0.25.214",
+        "release_date": "Dec 7, 2022"
+    },
+    {
+        "version": "394.1.0.51.107",
+        "release_date": "Dec 3, 2022"
+    },
+    {
+        "version": "394.0.0.50.107",
+        "release_date": "Dec 1, 2022"
+    },
+    {
+        "version": "393.0.0.35.106",
+        "release_date": "Nov 19, 2022"
+    },
+    {
+        "version": "393.0.0.34.106",
+        "release_date": "Nov 18, 2022"
+    },
+    {
+        "version": "392.2.0.33.108",
+        "release_date": "Nov 12, 2022"
+    },
+    {
+        "version": "392.0.0.32.108",
+        "release_date": "Nov 11, 2022"
+    },
+    {
+        "version": "391.1.0.37.104",
+        "release_date": "Nov 5, 2022"
+    },
+    {
+        "version": "391.1.0.35.104",
+        "release_date": "Nov 3, 2022"
+    },
+    {
+        "version": "391.0.0.33.104",
+        "release_date": "Nov 2, 2022"
+    },
+    {
+        "version": "391.0.0.2.104",
+        "release_date": "Oct 29, 2022"
+    },
+    {
+        "version": "390.0.0.27.105",
+        "release_date": "Oct 28, 2022"
+    },
+    {
+        "version": "389.0.0.42.111",
+        "release_date": "Oct 20, 2022"
+    },
+    {
+        "version": "388.0.0.32.105",
+        "release_date": "Oct 14, 2022"
+    },
+    {
+        "version": "387.0.0.24.102",
+        "release_date": "Oct 6, 2022"
+    },
+    {
+        "version": "386.0.0.35.108",
+        "release_date": "Sep 28, 2022"
+    },
+    {
+        "version": "385.0.0.32.114",
+        "release_date": "Sep 22, 2022"
+    },
+    {
+        "version": "385.0.0.18.114",
+        "release_date": "Sep 18, 2022"
+    },
+    {
+        "version": "384.1.0.29.111",
+        "release_date": "Sep 17, 2022"
+    },
+    {
+        "version": "384.0.0.25.111",
+        "release_date": "Sep 14, 2022"
+    },
+    {
+        "version": "382.0.0.33.111",
+        "release_date": "Sep 1, 2022"
+    },
+    {
+        "version": "381.0.0.29.105",
+        "release_date": "Aug 24, 2022"
+    },
+    {
+        "version": "381.0.0.17.105",
+        "release_date": "Aug 21, 2022"
+    },
+    {
+        "version": "380.0.0.29.109",
+        "release_date": "Aug 18, 2022"
+    },
+    {
+        "version": "379.0.0.24.109",
+        "release_date": "Aug 12, 2022"
+    },
+    {
+        "version": "379.0.0.15.109",
+        "release_date": "Aug 11, 2022"
+    },
+    {
+        "version": "378.0.0.18.112",
+        "release_date": "Aug 3, 2022"
+    },
+    {
+        "version": "377.0.0.22.107",
+        "release_date": "Jul 27, 2022"
+    },
+    {
+        "version": "376.0.0.12.108",
+        "release_date": "Jul 20, 2022"
+    },
+    {
+        "version": "375.1.0.28.111",
+        "release_date": "Jul 19, 2022"
+    },
+    {
+        "version": "374.0.0.20.109",
+        "release_date": "Jul 8, 2022"
+    },
+    {
+        "version": "373.0.0.31.112",
+        "release_date": "Jul 1, 2022"
+    },
+    {
+        "version": "372.1.0.23.107",
+        "release_date": "Jun 25, 2022"
+    },
+    {
+        "version": "371.0.0.24.109",
+        "release_date": "Jun 16, 2022"
+    },
+    {
+        "version": "369.0.0.18.103",
+        "release_date": "Jun 4, 2022"
+    },
+    {
+        "version": "368.0.0.24.108",
+        "release_date": "May 26, 2022"
+    },
+    {
+        "version": "367.2.0.26.107",
+        "release_date": "May 23, 2022"
+    },
+    {
+        "version": "367.0.0.24.107",
+        "release_date": "May 20, 2022"
+    },
+    {
+        "version": "366.1.0.20.113",
+        "release_date": "May 19, 2022"
+    },
+    {
+        "version": "365.0.0.30.112",
+        "release_date": "May 6, 2022"
+    },
+    {
+        "version": "364.1.0.25.132",
+        "release_date": "May 3, 2022"
+    },
+    {
+        "version": "364.0.0.24.132",
+        "release_date": "Apr 28, 2022"
+    },
+    {
+        "version": "363.0.0.30.112",
+        "release_date": "Apr 27, 2022"
+    },
+    {
+        "version": "362.0.0.27.109",
+        "release_date": "Apr 13, 2022"
+    },
+    {
+        "version": "361.0.0.39.115",
+        "release_date": "Apr 9, 2022"
+    },
+    {
+        "version": "360.0.0.30.113",
+        "release_date": "Apr 8, 2022"
+    },
+    {
+        "version": "358.0.0.34.117",
+        "release_date": "Mar 16, 2022"
+    },
+    {
+        "version": "357.0.0.23.115",
+        "release_date": "Mar 10, 2022"
+    },
+    {
+        "version": "357.0.0.0.53",
+        "release_date": "Mar 2, 2022"
+    },
+    {
+        "version": "355.0.0.21.108",
+        "release_date": "Feb 25, 2022"
+    },
+    {
+        "version": "355.0.0.11.108",
+        "release_date": "Feb 20, 2022"
+    },
+    {
+        "version": "354.0.0.22.110",
+        "release_date": "Feb 16, 2022"
+    },
+    {
+        "version": "353.0.0.34.116",
+        "release_date": "Feb 9, 2022"
+    },
+    {
+        "version": "353.0.0.1.116",
+        "release_date": "Feb 8, 2022"
+    },
+    {
+        "version": "352.0.0.20.117",
+        "release_date": "Feb 2, 2022"
+    },
+    {
+        "version": "351.0.0.38.117",
+        "release_date": "Jan 27, 2022"
+    },
+    {
+        "version": "351.0.0.22.117",
+        "release_date": "Jan 23, 2022"
+    },
+    {
+        "version": "350.1.0.29.106",
+        "release_date": "Jan 21, 2022"
+    },
+    {
+        "version": "350.0.0.26.106",
+        "release_date": "Jan 19, 2022"
+    },
+    {
+        "version": "349.0.0.39.470",
+        "release_date": "Jan 17, 2022"
+    },
+    {
+        "version": "349.0.0.35.470",
+        "release_date": "Jan 13, 2022"
+    },
+    {
+        "version": "348.0.0.39.118",
+        "release_date": "Dec 16, 2021"
+    },
+    {
+        "version": "347.0.0.28.237",
+        "release_date": "Dec 8, 2021"
+    },
+    {
+        "version": "346.0.0.29.119",
+        "release_date": "Dec 2, 2021"
+    },
+    {
+        "version": "345.0.0.34.118",
+        "release_date": "Nov 18, 2021"
+    },
+    {
+        "version": "345.0.0.22.118",
+        "release_date": "Nov 14, 2021"
+    },
+    {
+        "version": "345.0.0.15.118",
+        "release_date": "Nov 13, 2021"
+    },
+    {
+        "version": "344.0.0.34.116",
+        "release_date": "Nov 11, 2021"
+    },
+    {
+        "version": "343.0.0.37.117",
+        "release_date": "Nov 6, 2021"
+    }
+]
