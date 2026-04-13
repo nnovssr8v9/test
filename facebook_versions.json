@@ -1,5 +1,153 @@
 [
     {
+        "version": "556.0.0.60.64",
+        "release_date": "Apr 10, 2026"
+    },
+    {
+        "version": "555.0.0.49.59",
+        "release_date": "Apr 5, 2026"
+    },
+    {
+        "version": "554.0.0.57.70",
+        "release_date": "Mar 28, 2026"
+    },
+    {
+        "version": "553.0.0.56.58",
+        "release_date": "Mar 24, 2026"
+    },
+    {
+        "version": "552.1.0.45.68",
+        "release_date": "Mar 14, 2026"
+    },
+    {
+        "version": "552.0.0.43.68",
+        "release_date": "Mar 13, 2026"
+    },
+    {
+        "version": "551.1.0.58.63",
+        "release_date": "Mar 9, 2026"
+    },
+    {
+        "version": "551.0.0.56.63",
+        "release_date": "Mar 6, 2026"
+    },
+    {
+        "version": "549.0.0.61.62",
+        "release_date": "Mar 2, 2026"
+    },
+    {
+        "version": "548.1.0.51.64",
+        "release_date": "Feb 18, 2026"
+    },
+    {
+        "version": "547.0.0.41.68",
+        "release_date": "Feb 6, 2026"
+    },
+    {
+        "version": "545.0.0.43.63",
+        "release_date": "Jan 27, 2026"
+    },
+    {
+        "version": "544.0.0.42.272",
+        "release_date": "Jan 24, 2026"
+    },
+    {
+        "version": "543.0.0.55.73",
+        "release_date": "Dec 23, 2025"
+    },
+    {
+        "version": "542.0.0.46.151",
+        "release_date": "Dec 22, 2025"
+    },
+    {
+        "version": "542.0.0.47.151",
+        "release_date": "Dec 12, 2025"
+    },
+    {
+        "version": "541.0.0.85.79",
+        "release_date": "Dec 4, 2025"
+    },
+    {
+        "version": "540.0.0.49.148",
+        "release_date": "Nov 23, 2025"
+    },
+    {
+        "version": "539.0.0.54.69",
+        "release_date": "Nov 18, 2025"
+    },
+    {
+        "version": "538.0.0.53.70",
+        "release_date": "Nov 8, 2025"
+    },
+    {
+        "version": "537.0.0.47.77",
+        "release_date": "Nov 4, 2025"
+    },
+    {
+        "version": "536.1.0.58.77",
+        "release_date": "Oct 27, 2025"
+    },
+    {
+        "version": "536.0.0.46.77",
+        "release_date": "Oct 23, 2025"
+    },
+    {
+        "version": "535.0.0.49.72",
+        "release_date": "Oct 17, 2025"
+    },
+    {
+        "version": "533.0.0.49.79",
+        "release_date": "Oct 2, 2025"
+    },
+    {
+        "version": "532.0.0.55.71",
+        "release_date": "Sep 29, 2025"
+    },
+    {
+        "version": "531.0.0.47.70",
+        "release_date": "Sep 21, 2025"
+    },
+    {
+        "version": "530.0.0.48.74",
+        "release_date": "Sep 14, 2025"
+    },
+    {
+        "version": "528.0.0.62.74",
+        "release_date": "Sep 5, 2025"
+    },
+    {
+        "version": "529.0.0.44.73",
+        "release_date": "Sep 6, 2025"
+    },
+    {
+        "version": "527.0.0.59.76",
+        "release_date": "Aug 30, 2025"
+    },
+    {
+        "version": "526.1.0.66.75",
+        "release_date": "Aug 20, 2025"
+    },
+    {
+        "version": "525.0.0.53.51",
+        "release_date": "Aug 12, 2025"
+    },
+    {
+        "version": "524.0.0.52.44",
+        "release_date": "Aug 5, 2025"
+    },
+    {
+        "version": "522.0.0.52.96",
+        "release_date": "Jul 26, 2025"
+    },
+    {
+        "version": "523.0.0.39.61",
+        "release_date": "Jul 25, 2025"
+    },
+    {
+        "version": "521.0.0.42.97",
+        "release_date": "Jul 17, 2025"
+    },
+    {
         "version": "520.0.0.44.99",
         "release_date": "Jul 5, 2025"
     },
